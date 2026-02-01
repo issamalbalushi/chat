@@ -1,0 +1,8 @@
+{
+  "name": "Janoochat",
+  "description": "An exclusive, end-to-end encrypted feel private chat application for two people, supporting text, high-quality video, and voice communication with AI-powered enhancements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
